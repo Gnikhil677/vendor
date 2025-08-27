@@ -2,8 +2,6 @@
 
 ![cover](images/Project_cover.png)
 
-**Overview:**
-Made a Company Standard Project where I worked on a large-scale real-world dataset (>2GB, several million rows) involving vendor sales and purchase transactions. This was the largest dataset I’ve analyzed to date and required building an efficient end-to-end pipeline integrating **PostgreSQL, Python, and Power BI**.
 ## **Overview:**
 
 Made an end-to-end Company Standard Project where I worked on a large-scale real-world dataset (>2GB, several million rows) involving vendor sales and purchase transactions. This was the largest dataset I’ve analyzed to date and required building an efficient end-to-end pipeline integrating **PostgreSQL, Python, and Power BI**.
