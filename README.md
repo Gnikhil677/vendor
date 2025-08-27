@@ -1,7 +1,8 @@
 # Project: Advanced Data Analysis on Vendor Sales & Purchases
 
-**Overview:**
-Made a Company Standard Project where I worked on a large-scale real-world dataset (>2GB, several million rows) involving vendor sales and purchase transactions. This was the largest dataset I’ve analyzed to date and required building an efficient end-to-end pipeline integrating **PostgreSQL, Python, and Power BI**.
+## **Overview:**
+
+Made an end-to-end Company Standard Project where I worked on a large-scale real-world dataset (>2GB, several million rows) involving vendor sales and purchase transactions. This was the largest dataset I’ve analyzed to date and required building an efficient end-to-end pipeline integrating **PostgreSQL, Python, and Power BI**.
 
 **Key Contributions:**
 
@@ -14,7 +15,7 @@ Made a Company Standard Project where I worked on a large-scale real-world datas
 
     Connected Power BI to the cleaned table, built interactive dashboards analyzing vendor purchase trends, sales performance, cost efficiencies, and anomalies.
 
-**Impact:**
+### **Impact:**
 
 * Reduced dataset size and improved loading times by **over 90%**, making downstream analysis and visualization feasible.
 * Created a sustainable pipeline that can be re-run for future data updates without manual intervention.
